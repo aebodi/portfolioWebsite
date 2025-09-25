@@ -2,8 +2,7 @@
 
 This web application showcases my experience, projects, skills, and education as I pursue a career in software engineering.
 
-I pursued a simple and user-friendly design
-
+I pursued a simple and user-friendly design.
 # Requirements
 
 - HTML
